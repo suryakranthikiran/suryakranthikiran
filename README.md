@@ -9,9 +9,7 @@
 
 - 🔭 I’m currently working on DXC Technology 
 
-- 🌱 I’m currently learning **Full Stack Development**
-
-- 💬 Ask me about **JavaScript, JAVA, DSA, ReactJs, HTML, CSS, Intune, SCCM, NodeJs, ExpressJs, PowerShell scripting**
+- 💬 Ask me about **JavaScript, JAVA, DSA, ReactJs, HTML, CSS, Intune, SCCM, NodeJs, ExpressJs, PowerShell scripting, ExpressJs**
 
 - 📫 How to reach me **tskranthikiran@gmail.com**
 
